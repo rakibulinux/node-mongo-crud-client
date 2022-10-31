@@ -1,0 +1,13 @@
+.list-item {
+  display: flex;
+  justify-content: center;
+}
+
+.list-item li {
+  list-style: none;
+  padding: 10px;
+}
+
+.list-item a {
+  text-decoration: none;
+}
